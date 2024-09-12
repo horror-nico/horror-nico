@@ -14,7 +14,7 @@ Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico)
      X	   XXX//    X          X                                  S     U    A     R     \    /
      X	  X   X     X         X                                    E          D     R     ----
      X    X    X    X        X                                                       O     ()
-      X   X    X    X        X			  XX				      R
+      X   X    X    X        X			  XX				                                      R
       X    X   X    X        X		       XXX  XX
        X    XXX      X        X 	      X  X X  X
        X	     X         X	      XX X  XXXX
