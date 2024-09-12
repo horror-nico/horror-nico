@@ -5,8 +5,8 @@ Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico)
                  X  ***  X                XXXXX
                 X  *****  X            XXX     XX
              XXXX ******* XXX      XXXX          XX
-           XX	X ******  XXXXXXXXX    El@         XX XXX
-         XX	 X ****  X                           X** X
+           XX	   X ******  XXXXXXXXX    El@         XX XXX
+         XX	     X ****  X                           X** X
         X        XX    XX     X                      X***X
        X         //XXXX       X                      XXXX     C
       X         //   X                             XX          U      y          B      ////////
