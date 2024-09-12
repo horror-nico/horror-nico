@@ -9,12 +9,12 @@ Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico)
          XX	 X ****  X                           X** X
         X        XX    XX     X                      X***X
        X         //XXXX       X                      XXXX     C
-      X         //   X                             XX          U      y          H      ////////
-     X         //    X	        XXXXXXXXXXXXXXXXXX/              R     O    B     O     \      /
-     X	   XXX//    X          X                                  S     U    A     R     \    /
-     X	  X   X     X         X                                    E          D     R     ----
-     X    X    X    X        X                                                       O     ()
-      X   X    X    X        X			  XX				                                      R
+      X         //   X                             XX          U      y          B      ////////
+     X         //    X	        XXXXXXXXXXXXXXXXXX/              R     O    R     A     \      /
+     X	   XXX//    X          X                                  S     U    E     R     \    /
+     X	  X   X     X         X                                    E          D     O     ----
+     X    X    X    X        X                                                       N     ()
+      X   X    X    X        X			  XX
       X    X   X    X        X		       XXX  XX
        X    XXX      X        X 	      X  X X  X
        X	     X         X	      XX X  XXXX
@@ -44,7 +44,3 @@ Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico)
         =====**********  *     X		     )	\  )
           ====* 	*     X 	      \  \   )XXXXX
      =========**********       XXXXXXXXXXXXXXXXXXXXXX
-
-<!---
-
---->
