@@ -1,4 +1,4 @@
-Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico)
+Assinado: Nicolas Lopes (Bsky:@nico-horror.bsky.social Insta:@spot.nico X:@Nico_Lop3s)
 
                    XXXX
                   X    XX
